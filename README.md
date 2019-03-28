@@ -245,6 +245,7 @@ To make the original [monero-v0.13.0.4](https://github.com/monero-project/monero
 To quickly sync from these nodes, please use `--add-peer` with monerod-v0.13.0.4.
 
 | Server          | Port  | Region        |
+|-----------------|-------|---------------|
 | 149.129.54.152  | 18080 | Signpore      |
 | 39.105.13.148   | 18080 | China         |
 | 212.64.58.71    | 18080 | China         |
