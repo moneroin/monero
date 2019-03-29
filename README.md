@@ -6,11 +6,9 @@ This repo is initialy a fork from [original monero v0.13.0.4](https://github.com
 
 ## Development resources
 
-- Web: [moneroin.com](https://)
-- Forum: 
-- Mail: 
-- GitHub: 
-- IRC: 
+- Web: [moneroin.com](https://moneroin.com/)
+- Forum: [monero infinity on bitcointalk](https://bitcointalk.org/index.php?topic=5118066.0)
+- GitHub: [https://github.com/moneroin/monero](https://github.com/moneroin/monero)
 
 ## Introduction
 
